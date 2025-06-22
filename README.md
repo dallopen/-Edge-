@@ -12,3 +12,4 @@ Windows系列
 解压下载的压缩包
 双击运行 浏览器无限多开.exe
 根据使用说明使用即可
+![wechat_2025-06-22_175458_831](https://github.com/user-attachments/assets/6c65681b-9ec9-4a60-b375-7364300b0328)
